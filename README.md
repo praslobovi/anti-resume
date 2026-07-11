@@ -1,0 +1,2 @@
+# anti-resume
+thought-log
